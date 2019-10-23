@@ -8,7 +8,7 @@ In addition, it marks configuration failures such as unused pipelines, and uncon
 ![example](https://github.com/empow/logstash-parsers/blob/master/images/pipeline_viewer.png)
 
 
-## Instalation
+## Installation
 The Multi Pipeline Visualization  is a python script written in *python2*.
 It relies on the following common *python2* packages:
 
@@ -18,7 +18,7 @@ It relies on the following common *python2* packages:
 4. nltk
 5. graphviz
 
-The utilityr can be run on any platform running *python2*. <br>
+The utility can be run on any platform running *python2*. <br>
 We will use *Ubuntu 18.04* as the reference platform for this note.
 
 ### Install *python2*
